@@ -1,4 +1,5 @@
 clc; clear; close all
+addpath('dep')
 load('data/patchRecord_beh.mat','patchRecord_beh')
 dataLoc = '~/Downloads/v4-7a/patch';
 
